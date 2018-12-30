@@ -206,7 +206,7 @@ Page({
     var that = this;
     var url = "https://free-api.heweather.com/s6/air/now";
     var param = {
-      key: "c5bfaf6bf312400891a8bd572b751dec",
+      key: "------------------c",
       location: city
     };
     //发出请求
