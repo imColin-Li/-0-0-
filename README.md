@@ -24,4 +24,4 @@
 https://github.com/winterfeel/Wxapp_Toutiao
 https://github.com/fozero/zhihudaily-weapp
 https://www.juhe.cn/docs/api/id/94//聚合数据API
-https://codeload.github.com/imcy/MyWeixin/zip/master
+https://codeload.github.com/imcy/MyWeixin
