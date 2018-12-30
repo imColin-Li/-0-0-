@@ -19,7 +19,7 @@ Page({
       url: 'https://v.juhe.cn/toutiao/index',
       data: {
         type: 'topNews',
-        key: 'a9f703a0200d68926f707f3f13629078'
+        key: 'a-----------------78'
       },
       header: {
         'Content-Type': 'application/json'
